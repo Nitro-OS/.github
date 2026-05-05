@@ -1,4 +1,4 @@
-# NitroOS
+# NitroOS - Hyprland-first developer OS
 
 **NitroOS** is a fast, minimal, Arch-based Linux distribution focused on a modern Hyprland desktop experience.
 
